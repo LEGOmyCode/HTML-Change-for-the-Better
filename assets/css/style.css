@@ -15,13 +15,13 @@ main,
 }
 
 .btn1 {
-    color: green;
-    background-color: red;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 .btn2 {
-    color: crimson;
-    background-color: green;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 footer,
